@@ -1,1 +1,1 @@
-EDA on You Tude dataset using pandas and numpy libraries in python.
+Exploratory Data Analysis on You Tube dataset using pandas and numpy libraries in python.
